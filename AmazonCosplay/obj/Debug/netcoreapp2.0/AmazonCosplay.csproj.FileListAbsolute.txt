@@ -1,0 +1,11 @@
+C:\Users\Anastasiia_Kavetska\source\repos\AmazonCosplay\AmazonCosplay\bin\Debug\netcoreapp2.0\AmazonCosplay.deps.json
+C:\Users\Anastasiia_Kavetska\source\repos\AmazonCosplay\AmazonCosplay\bin\Debug\netcoreapp2.0\AmazonCosplay.runtimeconfig.json
+C:\Users\Anastasiia_Kavetska\source\repos\AmazonCosplay\AmazonCosplay\bin\Debug\netcoreapp2.0\AmazonCosplay.runtimeconfig.dev.json
+C:\Users\Anastasiia_Kavetska\source\repos\AmazonCosplay\AmazonCosplay\bin\Debug\netcoreapp2.0\AmazonCosplay.dll
+C:\Users\Anastasiia_Kavetska\source\repos\AmazonCosplay\AmazonCosplay\obj\Debug\netcoreapp2.0\AmazonCosplay.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia_Kavetska\source\repos\AmazonCosplay\AmazonCosplay\obj\Debug\netcoreapp2.0\AmazonCosplay.AssemblyInfoInputs.cache
+C:\Users\Anastasiia_Kavetska\source\repos\AmazonCosplay\AmazonCosplay\obj\Debug\netcoreapp2.0\AmazonCosplay.AssemblyInfo.cs
+C:\Users\Anastasiia_Kavetska\source\repos\AmazonCosplay\AmazonCosplay\bin\Debug\netcoreapp2.0\AmazonCosplay.pdb
+C:\Users\Anastasiia_Kavetska\source\repos\AmazonCosplay\AmazonCosplay\obj\Debug\netcoreapp2.0\AmazonCosplay.dll
+C:\Users\Anastasiia_Kavetska\source\repos\AmazonCosplay\AmazonCosplay\obj\Debug\netcoreapp2.0\AmazonCosplay.pdb
+C:\Users\Anastasiia_Kavetska\source\repos\AmazonCosplay\AmazonCosplay\obj\Debug\netcoreapp2.0\AmazonCosplay.csprojAssemblyReference.cache
